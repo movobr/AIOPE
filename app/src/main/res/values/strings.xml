@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AIOPE</string>
+    <string name="chat_title">Chat do Agente AIOPE</string>
+    <string name="chat_input_placeholder">Digite uma mensagem para o agente…</string>
+    <string name="chat_send">Enviar</string>
+    <string name="user_label">Você</string>
+    <string name="agent_label">Agente</string>
+    <string name="service_notification_title">Agente AIOPE Ativo</string>
+    <string name="service_notification_desc">Tarefas autônomas e serviços de segundo plano em execução</string>
+    <string name="default_conversation_title">Chat Geral</string>
+    <string name="default_agent_name">Agente Principal</string>
+</resources>
